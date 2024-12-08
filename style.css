@@ -1,1 +1,48 @@
+html {
+  height: 100%;
+	text-align: center;
+  width: 100%;
+	border-radius: 50px;
+ background-color: #abcdef;
+}
+div
+{
+	height: 30%
+	border-radius: 50px;
+	font-family: Comic Sans MS;
+	background-color: #aaddad;
+}
+#heading
+{
+ 
+	height: 14%;
+	  width: 100%;
+	position: fixed;
+	font-family: Comic Sans MS;
+	background-color: #aaddad;
+}
+label
+{
+	border: 1px solid black;
+	border-radius: 2px;
+	font-family: Comic Sans MS;
+	color: #fff;
+	background-color: #16e;
+	padding: 20 px;
+}
+input
+{
+	border: 1px solid black;
+	border-radius: 20px;
+	width: 30%;
+	height: 50px;
+	margin: 20 px;
+	padding: 20 px;
+	color: #fff;
+	background: #000;
+}
+img
+{
+border-radius: 10px;
+}
 
